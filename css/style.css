@@ -1,3 +1,6 @@
+header img{
+    margin-right: 1em;
+}
 #titulo{
     background: url(../imagenes/12copia.jpg) right center;
     background-size: cover;
@@ -8,6 +11,7 @@
     background: #2cb6bb;
     font-size: 24px;
     color: #FFF;
+    margin-bottom: 2.5em;
 }
 
 #cuadro h1{
@@ -22,6 +26,9 @@
     image-orientation: center;
 }
 
+#beneficios h1{
+    font-size: 35px;
+}
 .fondo h1{
     text-align: center;
     color: #2cb6bb;
@@ -46,3 +53,11 @@
     padding: 20px;
     color: darkgray;
 }
+
+#hola{
+    background: url(../imagenes/familia.jpg) right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
