@@ -1,0 +1,48 @@
+#titulo{
+    background: url(../imagenes/12copia.jpg) right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#titulo button{
+    background: #2cb6bb;
+    font-size: 24px;
+    color: #FFF;
+}
+
+#cuadro h1{
+    font-size: 4em;
+    margin: 0.67em;
+    color:#2cb6bb;;
+    text-align: center;
+}
+
+#beneficios img{
+    width: 62%;
+    image-orientation: center;
+}
+
+.fondo h1{
+    text-align: center;
+    color: #2cb6bb;
+}
+
+.box p{
+    color: darkgray;
+    text-align:center;
+    padding: 20px;
+}
+
+.fondo img{
+    width: 62%;
+}
+
+#final img{
+    width: 96%;
+}
+
+#final h3, p{
+    text-align: center;
+    padding: 20px;
+    color: darkgray;
+}
