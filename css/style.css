@@ -22,12 +22,21 @@ header img{
 }
 
 #beneficios img{
-    width: 62%;
+    width: 50%;
     image-orientation: center;
 }
 
-#beneficios h1{
-    font-size: 35px;
+#beneficios h3{
+    font-size: 20px; 
+    margin-top: -1em;
+    color:#2cb6bb;
+}
+
+#beneficios p{
+    margin-top: -2.5em;
+    font-size: 13px;
+}
+
 }
 .fondo h1{
     text-align: center;
@@ -45,19 +54,52 @@ header img{
 }
 
 #final img{
-    width: 96%;
+    width: 80%;
 }
 
 #final h3, p{
     text-align: center;
     padding: 20px;
     color: darkgray;
+    margin-top: 1em;
+}
+
+
+#hola p{
+    color: white;
+    padding-top: 4em;
 }
 
 #hola{
     background: url(../imagenes/familia.jpg) right center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 0em;
 }
 
 
+
+@media only screen and (min-width:764px){
+
+#hola{
+    background: url(../imagenes/familia.jpg) right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4em;
+}
+}
+
+@media only screen and (min-width:1024px){
+
+#hola{
+    background: url(../imagenes/familia.jpg) right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 6em;
+}
+}
+
+
+
+2953045
+SOY TU LEON
